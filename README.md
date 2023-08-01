@@ -1,2 +1,2 @@
-# Undergraduate_Project
+# DEVELOPMENT AND INVESTIGATION OF EARTHQUAKE FORECASTING MODEL USING MACHINE LEARNING ALGORITHM (LightGBM) FOR AFRICA TECTONIC PLATE
 This is the repository for my undergraduate final year project - BSc. PHYSICS
